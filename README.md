@@ -20,6 +20,6 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=380&height=32&lines=BTech+CSE+'29" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=420&height=32&lines=BTech+CSE+'29;Aspiring+Software+Engineer;Open+Source+Contributor;Tech+Enthusiast" 
   />
 </p>
