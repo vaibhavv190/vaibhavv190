@@ -1,9 +1,12 @@
-<h1 align="center">
-  Hi, 👋 I'm 
-  <a href="https://x.com/vaibhavv190" target="_blank" style="text-decoration: none;">
-    <span style="color: #E6D5B8;">Vaibhav Verma</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+👋+I'm" />
+</p>
+
+<p align="center">
+  <a href="https://x.com/vaibhavv190" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=1&pause=100000&color=E6D5B8&center=true&vCenter=true&width=500&height=60&lines=Vaibhav+Verma" />
   </a>
-</h1>
+</p>
 
 
 <p align="center">
